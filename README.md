@@ -7,6 +7,7 @@ gokurai は次の書籍の翻訳で利用されました:
 - [グラフ理論入門](https://inzkyk.xyz/graph/)
 - [オープンソースソフトウェアのパフォーマンス](https://inzkyk.xyz/posa/)
 - [コンピューターネットワーク: システム的アプローチ](https://inzkyk.xyz/network/)
+- [500 行のコードで作るプチアプリケーション](https://inzkyk.xyz/500-lines/)
 
 ## ビルド
 
